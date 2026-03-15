@@ -1,5 +1,4 @@
 -- KPI 
--- find total customer
 select "Total Customer" as measure_name, count(distinct account_id) as measure_value
 from ravenstack_accounts
 union all
