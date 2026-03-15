@@ -1,5 +1,5 @@
 ## PROJECT BACKGROUND
-RavenStack is an early stage SaaS startup that provides digital tools to businesses across multiple industries. The company operates on a subscription based model and currently serves 500 customers across different countries, industries, and pricing plans. As with many growing SaaS companies, maintaining stable monthly recurring revenue (MRR) and minimizing customer churn are important to sustaining growth.
+RavenStack is an early stage SaaS startup that provides digital tools to businesses across multiple industries. The company operates on a subscription based model and currently serves ***500 customers*** across different countries, industries, and pricing plans. As with many growing SaaS companies, maintaining stable monthly recurring revenue (MRR) and minimizing customer churn are important to sustaining growth.
 This project explores where customer churn is occurring, what customer patterns and behaviors are associated with it and how much recurring revenue is being lost as a result. To answer this question, the analysis combines multiple datasets covering customer accounts, subscriptions, churn events, feature usage and support interactions. 
 
 **To answer this business problem, the analysis focuses on three key areas:**
@@ -33,5 +33,5 @@ Churn is heavily concentrated in specific markets and industries, particularly U
 
 4. **Introduce proactive engagement and customer health monitoring**
 Since most churned customers leave without changing their subscription plans, it suggests disengagement rather than pricing dissatisfaction. Implementing customer health scores based on usage, support activity, and engagement levels would allow RavenStack to identify declining activity early and trigger retention strategies such as check-ins, feature education, or value demonstrations.
-5. Protect recurring revenue through retention programs
+5. **Protect recurring revenue through retention programs**
 With approximately $2M in MRR lost due to churn, improving retention can have a direct financial impact. RavenStack can introduce loyalty incentives, contract renewal touchpoints, and customer feedback loops to strengthen long term relationships and reduce revenue volatility caused by cancellations.
